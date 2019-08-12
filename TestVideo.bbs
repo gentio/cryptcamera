@@ -1,0 +1,5 @@
+[Batch Build]
+TestVideo - Win32 Debug=1
+TestVideo - Win32 Release=1
+video - Win32 Debug=1
+video - Win32 Release=1
